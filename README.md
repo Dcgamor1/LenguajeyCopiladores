@@ -1,2 +1,2 @@
-# LenguajeyCopiladores
-Repositorio de tarea de lenguajes y Copiladores 
+# EjercicioTema2
+Repositorio de tema 2 de lenguajes y Compiladores 
